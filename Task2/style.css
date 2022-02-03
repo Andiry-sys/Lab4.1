@@ -1,0 +1,33 @@
+.block {
+  width: 30%;
+  height: 50px;
+  display: inline-block;
+}
+
+.color0 {
+  background-color: red;
+}
+
+.color1 {
+  background-color: orange;
+}
+
+.color2 {
+  background-color: yellow;
+}
+
+.color3 {
+  background-color: green;
+}
+
+.color4 {
+  background-color: lightblue;
+}
+
+.color5 {
+  background-color: blue;
+}
+
+.color6 {
+  background-color: violet;
+}
